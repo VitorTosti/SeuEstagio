@@ -13,6 +13,8 @@ const jobs: Internship[] = [
     tags: ['UX'],
     benefits: [],
     featured: true,
+    logo: 'A',
+    logoTone: 'teal',
   },
   {
     id: 'dados',
@@ -24,6 +26,8 @@ const jobs: Internship[] = [
     tags: ['Tecnologia'],
     benefits: [],
     featured: true,
+    logo: 'B',
+    logoTone: 'blue',
   },
 ]
 

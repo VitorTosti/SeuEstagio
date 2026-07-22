@@ -12,7 +12,7 @@ export function SocialProof() {
     <section className="section proof-section">
       <div className="container proof-grid">
         <div className="testimonial-image-wrap">
-          <img alt="Mariana, estudante de engenharia e estagiária" className="testimonial-image" src="./student-portrait.webp" />
+          <img alt="Mariana, estudante de engenharia e estagiária" className="testimonial-image" src="./student-portrait.png" />
           <span className="testimonial-caption"><strong>Mariana Silva</strong>Engenharia · Estagiária na VTEX</span>
         </div>
         <blockquote>

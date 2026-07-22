@@ -3,3 +3,4 @@ dist/
 .superdesign/tmp/
 .worktrees/
 *.log
+*.tsbuildinfo
